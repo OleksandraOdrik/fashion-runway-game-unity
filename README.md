@@ -24,7 +24,7 @@ Explore a fashion-inspired environment as a stylised character and collect handb
 
 Watch a two-minute demonstration of Fashion Runway Game, showcasing the character, 3D environment and interactive gameplay.
 
-[▶  Download Gameplay Demo](https://github.com/OleksandraOdrik/fashion-runway-game-unity/releases/download/v1.0/fashion-runway-gameplay.mp4)
+[▶  Watch / Download Gameplay Demo](https://github.com/OleksandraOdrik/fashion-runway-game-unity/releases/download/v1.0/fashion-runway-gameplay.mp4)
 
 ## Development notes
 
